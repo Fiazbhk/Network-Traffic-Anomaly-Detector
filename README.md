@@ -84,7 +84,7 @@ Network_Traffic_Anomaly_Detector/
 │
 ├── Network_Traffic_Anomaly_Detector.ipynb    # Main notebook
 ├── README.md                                 # Project documentation
-└── Report.docx                               # Detailed project report
+└── Report.pdf                               # Detailed project report
 ```
 
 ---
